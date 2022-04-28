@@ -1,0 +1,13 @@
+.logo{height: 400px;
+width: 400px;
+}
+.nav{height: 50px;
+width:100%;
+background-color: white;
+color:white  ;
+}
+.box{
+    position: absolute;
+    margin-left: 66%;
+    margin-top: 9%;
+}
